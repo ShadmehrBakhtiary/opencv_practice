@@ -1,2 +1,2 @@
 # opencv_practice
-some operations with opencv
+some practices with opencv
